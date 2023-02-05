@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Satyam
+
+👨‍💻 Enthusiast of Full Stack Development, with a deep-seated passion for the field and a steadfast dedication to creating cutting-edge software solutions.
+
+⚡ Continuously seeking new knowledge and keeping up to date with the most recent advancements in technology.
 
 <!--
 **satyam235/satyam235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
